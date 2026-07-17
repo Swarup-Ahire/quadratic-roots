@@ -24,7 +24,7 @@ else:
  #Also: if round(1234, -1) = 1230 for -2 ->1200 )
 
      elif delta>0: #Comparing of imaginary number isn't allowed.
-                   #Therfore; didn't took the root over delta variable
+                   #Therfore; didn't took the root over delta variable.
                    
          print("Roots of quadratic equation are 'Real'. ")
          print(f"Roots are : {round(x,2)} , {round(y,2)}")
