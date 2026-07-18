@@ -36,5 +36,5 @@ else:
           
 # z = 3 + 5j ,
 #By the following commands you can print on real or imaginary part of z.
-#print(z.real)-> 3
-#print(z.imag)-> 5
+#print(z.real) -> 3
+#print(z.imag) -> 5
